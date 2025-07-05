@@ -1,8 +1,4 @@
-Here's a professional and complete **README.md** for your GitHub repository on **Ensemble Tree-Based Learning for Multiclass Dementia Classification**:
 
----
-
-````markdown
 # 🧠 Ensemble Tree-Based Learning for Accurate Multiclass Dementia Classification from Clinical Data
 
 This project applies advanced **ensemble tree-based machine learning algorithms** to accurately classify dementia stages (Nondemented, Demented, Converted) using structured clinical data from the **OASIS longitudinal dataset**.
